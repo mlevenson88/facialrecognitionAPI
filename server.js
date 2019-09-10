@@ -14,7 +14,7 @@ const db = knex({
   connection: {
     host : 'postgresql-curved-48451',
     user : 'postgres',
-    password : '', // Add later
+    password : 'Q5i7vu12', // Add later
     database : 'facial_recognition'
   }
 });
